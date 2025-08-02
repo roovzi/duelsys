@@ -1,0 +1,11 @@
+name: DuelSystem
+version: 1.0
+main: me.roovzi.duelplugin.DuelPlugin
+api-version: 1.13
+commands:
+  duel:
+    description: Duel a player
+  accept:
+    description: Accept a duel
+  deny:
+    description: Deny a duel
